@@ -19,7 +19,7 @@ The CalSimu-Tech Research Group mission contributes to the nanomaterials quest b
 
 
 ## Technical Service Methodologies, Capabilities and Skills
-<img src="/calsimu/assets/images/1.png" width="100%" height="auto">
+<img src="/assets/images/1.png" width="100%" height="auto">
 
 1. Development of materials screening criteria
 2. In-depth analysis of bottlenecks in materials performance
@@ -29,7 +29,7 @@ The CalSimu-Tech Research Group mission contributes to the nanomaterials quest b
 6. High-throughput screening of materials
 
 ## Technical Service Procedure
-<img src="/calsimu/assets/images/2.png" width="100%" height="auto">
+<img src="/assets/images/2.png" width="100%" height="auto">
 
 1. Break device into known materials structures
 2. Model atomic structure of all materials
@@ -39,7 +39,7 @@ The CalSimu-Tech Research Group mission contributes to the nanomaterials quest b
 6. Analyze and propose materials properties
 
 ## Consultation Service Features
-<img src="/calsimu/assets/images/3.png" width="100%" height="auto">
+<img src="/assets/images/3.png" width="100%" height="auto">
 
 1. Translate a material problem into a physical quantity to be calculated ourselves
 2. Design quantum computations that directly evaluate the target quantity ourselves
