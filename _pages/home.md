@@ -54,4 +54,4 @@ The CalSimu-Tech Research Group mission contributes to the nanomaterials quest b
 ## Need Additional Information?
 Feel free to contact us should you have questions or require further information on specific topics.		
 
-Mail: [info@calsimu-tech.com](info@calsimu-tech.com)
+Mail: [info@calsimu-tech.com](mailto:info@calsimu-tech.com)
