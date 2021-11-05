@@ -5,7 +5,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
+  overlay_image: /assets/images/header.jpg
 excerpt: >
   A start-up that is focused on applying Computational Material Science tools in a professional and optimal way
 ---
