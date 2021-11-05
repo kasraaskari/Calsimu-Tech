@@ -1,4 +1,4 @@
-gi---
+---
 layout: splash
 title: "CalSimu-Tech"
 permalink: /
