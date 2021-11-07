@@ -18,7 +18,7 @@ The CalSimu-Tech Research Group mission contributes to the nanomaterials quest b
 {: .text-justify}
 
 <video width="100%" height="auto" controls="controls" preload="metadata">
-  <source src="https://www.calsimu-tech.com/assets/intro.mp4#t=0.5" type="video/mp4">
+  <source src="https://www.calsimu-tech.com/assets/intro.mp4#t=1" type="video/mp4">
 </video>
 
 
