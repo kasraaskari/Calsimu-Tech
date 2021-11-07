@@ -56,9 +56,11 @@ The CalSimu-Tech Research Group mission contributes to the nanomaterials quest b
 You can also take a look at these files :
 
 <div class="span2">
-	<a href="#" class="btn btn--primary btn-block">Presentation</a>
-	<a href="#" class="btn btn--primary btn-block">Poster</a>
-    <a href="#" class="btn btn--primary btn-block">Pitch Deck</a>
+<a href="#" class="btn btn--primary btn-block">Presentation</a>
+
+<a href="#" class="btn btn--primary btn-block">Poster</a>
+
+<a href="#" class="btn btn--primary btn-block">Pitch Deck</a>
 </div>
 
 ## Need Additional Information?
