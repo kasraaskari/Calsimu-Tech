@@ -17,8 +17,8 @@ Our group integrates all the aspects of materials research from developing funda
 The CalSimu-Tech Research Group mission contributes to the nanomaterials quest by developing robust computational approaches to predict a wide range of properties such as but not limited to voltage profiles, thermal stabilities, electronic and ionic conductivities, and ionic intercalation, catalytic activities, and surface adsorption strengths.
 {: .text-justify}
 
-<video width="100%" height="auto" controls="controls">
-  <source src="https://www.calsimu-tech.com/assets/intro.mp4" type="video/mp4">
+<video width="100%" height="auto" controls="controls" preload="metadata">
+  <source src="https://www.calsimu-tech.com/assets/intro.mp4#t=0.5" type="video/mp4">
 </video>
 
 
