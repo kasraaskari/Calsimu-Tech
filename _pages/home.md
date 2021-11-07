@@ -55,11 +55,11 @@ The CalSimu-Tech Research Group mission contributes to the nanomaterials quest b
 ## Presentation, Poster and Pitch Deck
 You can also take a look at these files :
 
-<a href="#" class="btn btn--primary">Presentation</a>
-
-<a href="#" class="btn btn--primary">Poster</a>
-
-<a href="#" class="btn btn--primary">Pitch Deck</a>
+<div class="span2">
+	<a href="#" class="btn btn--primary btn-block">Presentation</a>
+	<a href="#" class="btn btn--primary btn-block">Poster</a>
+    <a href="#" class="btn btn--primary btn-block">Pitch Deck</a>
+</div>
 
 ## Need Additional Information?
 Feel free to contact us should you have questions or require further information on specific topics.		
