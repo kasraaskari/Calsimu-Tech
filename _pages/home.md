@@ -8,7 +8,7 @@ header:
   og_image: /assets/images/logo-og.png
   overlay_image: /assets/images/header.jpg
 excerpt: >
-  A start-up that is focused on applying Computational Materials Science tools rapidly, optimally and professionally
+  Applying Computational Materials Science tools rapidly, optimally and professionally
 ---
 # Intro
 The **Calculation and Simulation Technology group (CalSimu-Tech)** is a start-up that is focused on applying Computational Materials Science tools rapidly, optimally and professionally. Our goal is to design and/or help to design high quality functional materials at nanoscales. Our strategy maps the relationship between materials structures and their physico-chemical properties obtained from quantum mechanical calculations, all benefitting from our prior years of experience in multiple fields. 
